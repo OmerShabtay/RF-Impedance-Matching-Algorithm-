@@ -22,7 +22,7 @@ Standard analytical calculations assume ideal L and C components, which often fa
 ### Keysight ADS Circuit Layouts (High-Pass)
 Comparison between the ideal components layout and the real-world layout using manufacturer S-parameter blocks.
 
-| Ideal Components Layout | Real-World Layout (S2P) |
+| Ideal Components Layout | Real components Layout (S2P) |
 |:---:|:---:|
 | ![ADS Ideal Circuit](ADS_High-pass.Ideal.components.matching.jpeg) | ![ADS Real Circuit](ADS_High-pass.real.components.matching.jpeg) |
 
