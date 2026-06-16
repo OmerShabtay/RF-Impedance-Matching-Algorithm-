@@ -24,7 +24,7 @@ Comparison between the ideal components layout and the real-world layout using m
 
 | Ideal Components Layout | Real-World Layout (S2P) |
 |:---:|:---:|
-| ![ADS Ideal Circuit](ADS_High-pass.Ideal.components.jpeg) | ![ADS Real Circuit](ADS_High-pass.real.components.jpeg) |
+| ![ADS Ideal Circuit](ADS_High-pass.Ideal.components.matching.jpeg) | ![ADS Real Circuit](ADS_High-pass.real.components.matching.jpeg) |
 
 ### S11 Performance & Smith Chart (High-Pass)
 Final ADS simulations demonstrated excellent matching with S11 < -19 dB (VSWR ≈ 1.25) at the target frequency, accounting for component parasitics.
