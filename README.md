@@ -19,14 +19,14 @@ Standard analytical calculations assume ideal L and C components, which often fa
 
 ## Results & Simulations
 
-### Keysight ADS Circuit Layouts
+### Keysight ADS Circuit Layouts (High-Pass)
 Left: Ideal components layout. Right: Real-world layout using manufacturer S-parameter blocks.
 
-![ADS Ideal Circuit](ADS_Ideal.components.matching.jpeg)
-![ADS Real Circuit with S2P](ADS_real.components.matching.jpeg)
+![ADS Ideal Circuit](ADS_High-pass.Ideal.components.jpeg)
+![ADS Real Circuit with S2P](ADS_High-pass.real.components.jpeg)
 
-### S11 Performance & Smith Chart
-The algorithm successfully identified components achieving optimal power transfer. Final ADS simulations demonstrated excellent matching with S11 < -19 dB (VSWR ≈ 1.25) at the target frequency, accounts for component parasitics and layout ground references.
+### S11 Performance & Smith Chart (High-Pass)
+The algorithm successfully identified components achieving optimal power transfer. Final ADS simulations demonstrated excellent matching with S11 < -19 dB (VSWR ≈ 1.25) at the target frequency, accounting for component parasitics and layout ground references.
 
-![S11 Ideal Matching](S11_Ideal.matching.jpeg)
-![S11 Real Matching](S11_real.maching.jpeg)
+![S11 Ideal Matching](High-pass.S11_Ideal.matching.jpeg)
+![S11 Real Matching](High-pass.S11_real.maching.jpeg)
